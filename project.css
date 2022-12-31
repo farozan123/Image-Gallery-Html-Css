@@ -1,0 +1,29 @@
+a{
+    text-decoration: none;
+}
+ol{
+    list-style: none;
+    text-align: center;
+}
+li{
+    display: inline-block;
+    margin: 10px;
+    font-size: 20px;
+
+}
+.navigation{
+    background-color: aquamarine;
+    border: 1px solid blue;
+    margin-bottom: 10px;
+}
+.gallery{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+img{
+    height: 250px;
+    width: 400px;
+    margin: 10px;
+    
+}
